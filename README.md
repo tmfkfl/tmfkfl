@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90&animation=scaleIn)
-
+<!-- ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90&animation=scaleIn)-->
+![header](https://capsule-render.vercel.app/api?type=waving&text=TAESUNG&color=gradient)
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=tmfkfl)](https://github.com/tmfkfl)
-
+![tmfkfl's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmfkfl&theme=vue&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmfkfl)](https://github.com/tmfkfl/github-readme-stats)
 
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
